@@ -65,8 +65,15 @@ body {
   text-align: center;
 }
 
+.conftextos h1 {
+   color:white ;
+   font-weight: 400;
+   font-size: 20px;
+   font-family: 'Varela Round', sans-serif;
+}
+
 .texto10 {
-  width: 1750px;
+  width: 2850px;
   position: absolute;
   top: 427px;
   left: 205px;
