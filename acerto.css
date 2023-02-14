@@ -91,7 +91,14 @@ body {
   width: 3050px;
   position: absolute;
   top: 937px;
-  left: 950px;
+  left: 990px;  
   text-align: left;
 }
 
+.texto30 {
+	  width: 3050px;
+  position: absolute;
+  top: 1227px;
+  left: 105px;
+  text-align: left;
+}
