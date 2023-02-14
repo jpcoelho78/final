@@ -129,3 +129,36 @@ body {
   left: 280px;
   text-align: left;
 }
+
+.texto70 {
+    width: 2950px;
+  position: absolute;
+  top: 2897px;
+  left: 180px;
+  text-align: left;
+}
+
+.texto80 {
+    width: 3650px;
+  position: absolute;
+  top: 3157px;
+  left: 840px;
+  text-align: left;
+}
+
+.texto90 {
+  width: 3650px;
+  position: absolute;
+  top: 3497px;
+  left: 790px;
+  text-align: left;
+
+}  
+
+.text90 {
+	color: white;
+  font-size: 7px;
+  font-family: 'Varela Round', sans-serif;
+  margin: 15px;
+  font-weight: 400;
+}
