@@ -62,7 +62,6 @@ body {
   position: absolute;
   top: 50%;
   left: 50%;
-
   -webkit-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
@@ -77,6 +76,9 @@ body {
    margin: 15px;
 }
 
+
+
+
 .texto10 {
   width: 3450px;
   position: absolute;
@@ -86,16 +88,10 @@ body {
 }
 
 .texto20 {
-  width: 4050px;
+  width: 3050px;
   position: absolute;
-  top: 237px;
-  left: 850px;
+  top: 937px;
+  left: 950px;
   text-align: left;
 }
 
-.texto30 {
-	width: 100%;
-	position: absolute;
-	top: 307px;
-	left: 300;
-}
