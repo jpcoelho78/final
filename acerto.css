@@ -103,14 +103,21 @@ body {
 }
 
 .texto40 {
-  width: 3250px;
+  width: 3550px;
   position: absolute;
   top: 1527px;
   left: 945px;
   text-align: left;
+
 }
 
-.texto40 p {
+.text40 a {
+   font-weight: 400;
+   font-size: 20px;
+   font-family: 'Varela Round', sans-serif;
+   margin-top: 15px;
+   margin-left: 15px;
+   color: white;
 
 }
 
