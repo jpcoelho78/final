@@ -111,7 +111,7 @@ body {
 
 }
 
-.text40 a {
+a {
    font-weight: 400;
    font-size: 20px;
    font-family: 'Varela Round', sans-serif;
@@ -199,5 +199,6 @@ body {
 	font-size: 30px;
 	font-family: 'Varela Round', sans-serif;
 	margin: 20px;
+	text-align: center;
 }
 
