@@ -94,9 +94,8 @@ body {
 }
 
 .texto30 {
-   width: 750px;
-   position: absolute;
-   top: 3508px;
-   right: 205px;
-   text-align: right;
+	width: 100%;
+	position: absolute;
+	top: 307px;
+	left: 300;
 }
