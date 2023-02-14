@@ -3,6 +3,22 @@ body {
 	padding: 0;
 }
 
+#fundo{
+-webkit-transform: translateZ(-1px);
+    transform: translateZ(-1px);
+
+
+}
+#garrafa {
+	position: fixed;
+	top:2500px;
+	left:700px;%;
+	-webkit-transform: translateZ(0);
+    transform: translateZ(0);
+    height: 25%;
+}
+
+
 .caixa {
    position: relative;
    text-align: center;
@@ -39,7 +55,7 @@ body {
 
 .text {
   color: white;
-  font-size: 20px;
+  font-size: 10px;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -48,6 +64,17 @@ body {
   transform: translate(-50%, -50%);
   text-align: center;
 }
+
+.texto10 {
+  width: 1750px;
+  position: absolute;
+  top: 427px;
+  left: 205px;
+  text-align: left;
+}
+
+
+
 
 .texto20 {
   width: 1750px;
