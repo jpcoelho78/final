@@ -49,7 +49,6 @@ body {
   transition: .5s ease;
   background-color: #008CBA;
   border-radius: 20px;
-
 }
 
 .container:hover .overlay {
@@ -100,5 +99,33 @@ body {
   position: absolute;
   top: 1227px;
   left: 105px;
+  text-align: left;
+}
+
+.texto40 {
+  width: 3250px;
+  position: absolute;
+  top: 1527px;
+  left: 945px;
+  text-align: left;
+}
+
+.texto40 p {
+
+}
+
+.texto50 {
+	 width: 2750px;
+  position: absolute;
+  top: 1897px;
+  left: 210px;
+  text-align: left;
+}
+
+.texto60 {
+    width: 8950px;
+  position: absolute;
+  top: 2397px;
+  left: 280px;
   text-align: left;
 }
