@@ -80,18 +80,23 @@ body {
 .texto10 {
   width: 3450px;
   position: absolute;
-  top: 427px;
+  top: 727px;
   left: 205px;
   text-align: left;
 }
 
-
-
-
 .texto20 {
-  width: 1750px;
+  width: 4050px;
   position: absolute;
-  top: 427px;
-  left: 205px;
+  top: 237px;
+  left: 850px;
   text-align: left;
+}
+
+.texto30 {
+   width: 750px;
+   position: absolute;
+   top: 3508px;
+   right: 205px;
+   text-align: right;
 }
